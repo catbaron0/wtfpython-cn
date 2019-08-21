@@ -36,7 +36,7 @@ PS: 如果你不是第一次读了, 你可以在[这里](https://github.com/satw
         - [> Deep down, we're all the same./本质上,我们都一样. *](#-deep-down-were-all-the-same本质上我们都一样-)
         - [> For what?/为什么?](#-for-what为什么)
         - [> Evaluation time discrepancy/执行时机差异](#-evaluation-time-discrepancy执行时机差异)
-        - [> `is` is not what it is!/出人意料的`is`!](#-is-is-not-what-it-is出人意料的is)
+        - [> `is` is not what it is!/这个`is`的意思有点意思!](#-is-is-not-what-it-is这个is的意思有点意思)
         - [> A tic-tac-toe where X wins in the first attempt!/一蹴即至!](#-a-tic-tac-toe-where-x-wins-in-the-first-attempt一蹴即至)
         - [> The sticky output function/麻烦的输出](#-the-sticky-output-function麻烦的输出)
         - [> `is not ...` is not `is (not ...)`/`is not ...` 不是 `is (not ...)`](#-is-not--is-not-is-not-is-not--不是-is-not-)
@@ -427,7 +427,7 @@ array_2[:] = [1,2,3,4,5]
 
 ---
 
-### > `is` is not what it is!/出人意料的`is`!
+### > `is` is not what it is!/这个`is`的意思有点意思!
 
 下面是一个在互联网上非常有名的例子.
 
